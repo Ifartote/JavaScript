@@ -15,4 +15,4 @@ nome= "Igor";
 sobrenome= "Fartote";
 nomeCompleto= nome + " "+ sobrenome;
 //Com essa tag que definimos em HTML "TEXTO" vai ser o q vai no site.
-document.getElementById("texto").innerHTML = nomeCompleto;
+document.getElementById("texto").innerHTML = nomeCompleto;""
